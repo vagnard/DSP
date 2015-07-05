@@ -1,0 +1,11 @@
+function WT = WaveTransform(u, h, g, scale)
+    WT.LoRes = u;
+    WT.Details = cell(scale, 1);
+    
+    for i = 1:scale
+       buf = conv(
+       WT.Details{i} =  
+    end
+
+end
+

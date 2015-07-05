@@ -1,0 +1,7 @@
+function s = InvWaveTransform(WT,rh,rg,scale)
+    for i = scale:-1:1
+        WT.LoRes = 
+    end
+
+end
+
